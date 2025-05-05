@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevSecOps & Offensive Security**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/mdyousufhussain](https://linktr.ee/mdyousufhussain)
+- 👨‍💻 All of my works are available at [https://linktr.ee/mdyousufhussain](https://linktr.ee/mdyousufhussain)
 
 - 📝 I regularly write articles on [medium.com/@er.mdyousufhussain](medium.com/@er.mdyousufhussain)
 
