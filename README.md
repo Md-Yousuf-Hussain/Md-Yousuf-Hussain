@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Starting my career as a DevOps Engineer<br>⚡Hobby - Pwning Machines
+🌱 I am a recent grad, starting out as a fresher<br>⚡Hobby - Pwning Machines
 
 
 ## 🌐 Socials:
