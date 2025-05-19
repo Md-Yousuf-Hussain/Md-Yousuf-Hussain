@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MxYousufxHussain.png)](https://tryhackme.com/p/MxYousufxHussain)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zerotrace__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-yousuf-hussain/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://github.com/Md-Yousuf-Hussain/Md-Yousuf-Hussain/blob/main/medium.com/@er.mdyousufhussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:er.mdyousufhussain@gmail.com) 
 
