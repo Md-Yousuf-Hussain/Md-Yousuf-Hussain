@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am a recent grad, starting out as a fresher<br>⚡Hobby - Pwning Machines
+🌱 Starting out as a fresher<br>⚡Hobby - Pwning Machines
 
 
 ## 🌐 Socials:
